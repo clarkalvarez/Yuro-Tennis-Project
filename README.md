@@ -8,7 +8,7 @@ This is from Yuro Technologies Tennis Project
 
 ![Court Detection Example](https://github.com/Reljod/Yuro-Tennis-Project/blob/master/saved_images/final_image.jpg)
 
-**Main Codes**
+# Main Codes
 * 1. [Tennis Classifier](https://github.com/Reljod/Yuro-Tennis-Project/blob/master/TennisClassifier/main_video.py) video
 * 2. [In/Out Detector](https://github.com/Reljod/Yuro-Tennis-Project/blob/master/in_out_detector/in_out.py)
 
