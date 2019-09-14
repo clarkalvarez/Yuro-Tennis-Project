@@ -4,8 +4,6 @@ This is from Yuro Technologies Tennis Project
 
 ---
 <br>
-<p align="center"><b>Court Detection Example</b></p>
-
 ![Court Detection Example](https://github.com/Reljod/Yuro-Tennis-Project/blob/master/saved_images/final_image.jpg)
 
 # Main Codes
