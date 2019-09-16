@@ -1,7 +1,0 @@
-lower_hsv = (0, 34, 143)
-upper_hsv = (21, 176, 255)
-line_conf = (80, 165, 14)
-ANGLE_TOLERANCE = 5  # percentage (%)
-
-region_split_x = (17, 40, 60, 83)  # percentage (%)
-region_split_y = (22, 41, 65, 85)  # percentage (%)
