@@ -1,0 +1,66 @@
+{
+  "in-out-configuration": {
+    "tennis-courts": {
+      "orange-court-1": {
+        "lower-hsv": [
+          0,
+          34,
+          143
+        ],
+        "upper-hsv": [
+          21,
+          176,
+          255
+        ],
+        "line-conf": [
+          80,
+          165,
+          14
+        ],
+        "angle-tolerance": 5,
+        "region-split-x": [
+          17,
+          40,
+          60,
+          83
+        ],
+        "region-split-y": [
+          22,
+          41,
+          65,
+          85
+        ]
+      },
+      "green-court-1": {
+        "lower-hsv": [
+          0,
+          0,
+          224
+        ],
+        "upper-hsv": [
+          105,
+          21,
+          255
+        ],
+        "line-conf": [
+          26,
+          10,
+          43
+        ],
+        "angle-tolerance": 5,
+        "region-split-x": [
+          17,
+          40,
+          60,
+          83
+        ],
+        "region-split-y": [
+          22,
+          41,
+          65,
+          85
+        ]
+      }
+    }
+  }
+}
